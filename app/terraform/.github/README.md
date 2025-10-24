@@ -11,4 +11,4 @@ Este projeto cria uma infraestrutura automatizada na AWS usando **Terraform** e 
 1. Configure suas credenciais AWS (`aws configure`)
 2. Vá até a pasta `terraform`
 3. Execute:
-
+terraform apply
